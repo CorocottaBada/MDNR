@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dataIndex battleScribeVersion="2.03" name="Manuscritos" indexUrl="https://raw.githubusercontent.com/CorocottaBada/MDNR/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+<dataIndex battleScribeVersion="2.03" name="Manuscritos" indexUrl="https://raw.githubusercontent.com/CorocottaBada/Warhammer-reforged-v3/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <dataIndexEntries>
     <dataIndexEntry filePath="Warhammer MDNR.gstz" dataType="gamesystem" dataId="4a8b-d1ee-61aa-9589" dataName="Warhammer MDNR" dataBattleScribeVersion="2.03" dataRevision="10"/>
     <dataIndexEntry filePath="Bretonia.catz" dataType="catalogue" dataId="0b43-899c-8452-46e4" dataName="Bretonia" dataBattleScribeVersion="2.03" dataRevision="7"/>
@@ -9,13 +9,13 @@
     <dataIndexEntry filePath="Mercenarios.catz" dataType="catalogue" dataId="cef9-be7f-a51a-f8aa" dataName="Mercenarios" dataBattleScribeVersion="2.03" dataRevision="5"/>
     <dataIndexEntry filePath="Imperio.catz" dataType="catalogue" dataId="9d74-2faf-e484-8ef8" dataName="Imperio" dataBattleScribeVersion="2.03" dataRevision="4"/>
     <dataIndexEntry filePath="Reino del caos. Bestias.catz" dataType="catalogue" dataId="eeb3-495c-4589-410e" dataName="Reino del caos. Bestias" dataBattleScribeVersion="2.03" dataRevision="1"/>
-    <dataIndexEntry filePath="Condes vampiro.catz" dataType="catalogue" dataId="d0db-f87c-f41e-92c3" dataName="Condes vampiro" dataBattleScribeVersion="2.03" dataRevision="6"/>
+    <dataIndexEntry filePath="Condes vampiro.catz" dataType="catalogue" dataId="d0db-f87c-f41e-92c3" dataName="Condes vampiro" dataBattleScribeVersion="2.03" dataRevision="7"/>
     <dataIndexEntry filePath="Orcos y goblins.catz" dataType="catalogue" dataId="56d0-6f56-ef5a-5ac7" dataName="Orcos y goblins" dataBattleScribeVersion="2.03" dataRevision="5"/>
     <dataIndexEntry filePath="Reyes funerarios.catz" dataType="catalogue" dataId="e54c-fa09-2b34-908d" dataName="Reyes funerarios" dataBattleScribeVersion="2.03" dataRevision="6"/>
     <dataIndexEntry filePath="Enanos del caos.catz" dataType="catalogue" dataId="0372-99c4-64d9-f546" dataName="Enanos del caos" dataBattleScribeVersion="2.03" dataRevision="6"/>
     <dataIndexEntry filePath="Skavens.catz" dataType="catalogue" dataId="ce2f-d7c0-e26e-90cc" dataName="Skavens" dataBattleScribeVersion="2.03" dataRevision="3"/>
     <dataIndexEntry filePath="Elfos silvanos.catz" dataType="catalogue" dataId="8a4d-569a-976c-6602" dataName="Elfos silvanos" dataBattleScribeVersion="2.03" dataRevision="4"/>
     <dataIndexEntry filePath="Altos elfos.catz" dataType="catalogue" dataId="4c2f-d1b2-f0e0-12cd" dataName="Altos elfos" dataBattleScribeVersion="2.03" dataRevision="9"/>
-    <dataIndexEntry filePath="Elfos oscuros.catz" dataType="catalogue" dataId="122c-37b3-049e-4ee0" dataName="Elfos oscuros" dataBattleScribeVersion="2.03" dataRevision="5"/>
+    <dataIndexEntry filePath="Elfos oscuros.catz" dataType="catalogue" dataId="122c-37b3-049e-4ee0" dataName="Elfos oscuros" dataBattleScribeVersion="2.03" dataRevision="6"/>
   </dataIndexEntries>
 </dataIndex>

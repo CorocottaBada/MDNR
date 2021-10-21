@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <dataIndex battleScribeVersion="2.03" name="Manuscritos" indexUrl="https://raw.githubusercontent.com/CorocottaBada/MDNR/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <dataIndexEntries>
-    <dataIndexEntry filePath="Warhammer MDNR.gstz" dataType="gamesystem" dataId="4a8b-d1ee-61aa-9589" dataName="Warhammer MDNR" dataBattleScribeVersion="2.03" dataRevision="14"/>
+    <dataIndexEntry filePath="Warhammer MDNR.gstz" dataType="gamesystem" dataId="4a8b-d1ee-61aa-9589" dataName="Warhammer MDNR" dataBattleScribeVersion="2.03" dataRevision="16"/>
     <dataIndexEntry filePath="Bretonia.catz" dataType="catalogue" dataId="0b43-899c-8452-46e4" dataName="Bretonia" dataBattleScribeVersion="2.03" dataRevision="10"/>
     <dataIndexEntry filePath="Enanos.catz" dataType="catalogue" dataId="a143-1bfd-3702-dfdd" dataName="Enanos" dataBattleScribeVersion="2.03" dataRevision="6"/>
+    <dataIndexEntry filePath="Norses.catz" dataType="catalogue" dataId="9588-f0a8-98ee-65f5" dataName="Norses" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Reinos ogros.catz" dataType="catalogue" dataId="f5ff-fbfc-cdce-4d2f" dataName="Reinos ogros" dataBattleScribeVersion="2.03" dataRevision="9"/>
+    <dataIndexEntry filePath="Kislev.catz" dataType="catalogue" dataId="b685-465c-791d-9d1e" dataName="Kislev" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Hombres lagarto.catz" dataType="catalogue" dataId="6fa7-1b3e-e65e-8e2e" dataName="Hombres lagarto" dataBattleScribeVersion="2.03" dataRevision="6"/>
     <dataIndexEntry filePath="Mercenarios.catz" dataType="catalogue" dataId="cef9-be7f-a51a-f8aa" dataName="Mercenarios" dataBattleScribeVersion="2.03" dataRevision="8"/>
     <dataIndexEntry filePath="Imperio.catz" dataType="catalogue" dataId="9d74-2faf-e484-8ef8" dataName="Imperio" dataBattleScribeVersion="2.03" dataRevision="9"/>
     <dataIndexEntry filePath="Reino del caos. Bestias.catz" dataType="catalogue" dataId="eeb3-495c-4589-410e" dataName="Reino del caos. Bestias" dataBattleScribeVersion="2.03" dataRevision="5"/>
     <dataIndexEntry filePath="Condes vampiro.catz" dataType="catalogue" dataId="d0db-f87c-f41e-92c3" dataName="Condes vampiro" dataBattleScribeVersion="2.03" dataRevision="9"/>
-    <dataIndexEntry filePath="Orcos y goblins.catz" dataType="catalogue" dataId="56d0-6f56-ef5a-5ac7" dataName="Orcos y goblins" dataBattleScribeVersion="2.03" dataRevision="8"/>
+    <dataIndexEntry filePath="Amazonas.catz" dataType="catalogue" dataId="cf28-9b93-aefb-a4ea" dataName="Amazonas" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Orcos y goblins.catz" dataType="catalogue" dataId="56d0-6f56-ef5a-5ac7" dataName="Orcos y goblins" dataBattleScribeVersion="2.03" dataRevision="9"/>
+    <dataIndexEntry filePath="Hobgoblins.catz" dataType="catalogue" dataId="5e33-e853-b13b-d240" dataName="Hobgoblins" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Pigmeos.catz" dataType="catalogue" dataId="2cb1-70a3-6dad-fe02" dataName="Pigmeos" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Reyes funerarios.catz" dataType="catalogue" dataId="e54c-fa09-2b34-908d" dataName="Reyes funerarios" dataBattleScribeVersion="2.03" dataRevision="8"/>
     <dataIndexEntry filePath="Enanos del caos.catz" dataType="catalogue" dataId="0372-99c4-64d9-f546" dataName="Enanos del caos" dataBattleScribeVersion="2.03" dataRevision="9"/>
     <dataIndexEntry filePath="Skavens.catz" dataType="catalogue" dataId="ce2f-d7c0-e26e-90cc" dataName="Skavens" dataBattleScribeVersion="2.03" dataRevision="5"/>
@@ -18,5 +23,6 @@
     <dataIndexEntry filePath="Reino del caos. Demonios.catz" dataType="catalogue" dataId="e503-8420-a4e7-8a6b" dataName="Reino del caos. Demonios" dataBattleScribeVersion="2.03" dataRevision="6"/>
     <dataIndexEntry filePath="Altos elfos.catz" dataType="catalogue" dataId="4c2f-d1b2-f0e0-12cd" dataName="Altos elfos" dataBattleScribeVersion="2.03" dataRevision="12"/>
     <dataIndexEntry filePath="Elfos oscuros.catz" dataType="catalogue" dataId="122c-37b3-049e-4ee0" dataName="Elfos oscuros" dataBattleScribeVersion="2.03" dataRevision="8"/>
+    <dataIndexEntry filePath="Nippon.catz" dataType="catalogue" dataId="bbd1-fb11-e906-6d02" dataName="Nippon" dataBattleScribeVersion="2.03" dataRevision="1"/>
   </dataIndexEntries>
 </dataIndex>

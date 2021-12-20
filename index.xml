@@ -3,15 +3,17 @@
   <dataIndexEntries>
     <dataIndexEntry filePath="Warhammer MDNR.gstz" dataType="gamesystem" dataId="4a8b-d1ee-61aa-9589" dataName="Warhammer MDNR" dataBattleScribeVersion="2.03" dataRevision="19"/>
     <dataIndexEntry filePath="Reino del caos. Mortales.catz" dataType="catalogue" dataId="cead-8647-824d-f446" dataName="Reino del caos. Mortales" dataBattleScribeVersion="2.03" dataRevision="3"/>
+    <dataIndexEntry filePath="Ejercito nigromantico.catz" dataType="catalogue" dataId="0496-e816-6f23-5239" dataName="Ejercito nigromantico" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Enanos.catz" dataType="catalogue" dataId="a143-1bfd-3702-dfdd" dataName="Enanos" dataBattleScribeVersion="2.03" dataRevision="11"/>
     <dataIndexEntry filePath="Clan Dragon Sangriento.catz" dataType="catalogue" dataId="875f-68f3-1678-b48e" dataName="Clan Dragón Sangriento" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Norses.catz" dataType="catalogue" dataId="9588-f0a8-98ee-65f5" dataName="Norses" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Kislev.catz" dataType="catalogue" dataId="b685-465c-791d-9d1e" dataName="Kislev" dataBattleScribeVersion="2.03" dataRevision="2"/>
-    <dataIndexEntry filePath="Hombres lagarto.catz" dataType="catalogue" dataId="6fa7-1b3e-e65e-8e2e" dataName="Hombres lagarto" dataBattleScribeVersion="2.03" dataRevision="12"/>
+    <dataIndexEntry filePath="Hombres lagarto.catz" dataType="catalogue" dataId="6fa7-1b3e-e65e-8e2e" dataName="Hombres lagarto" dataBattleScribeVersion="2.03" dataRevision="13"/>
+    <dataIndexEntry filePath="Sylvania. Clan Von Carstein.catz" dataType="catalogue" dataId="a85d-77f6-f700-1bd9" dataName="Sylvania. Clan Von Carstein" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Clan Lahmia.catz" dataType="catalogue" dataId="81c8-b914-01ee-4d62" dataName="Clan Lahmia" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Imperio.catz" dataType="catalogue" dataId="9d74-2faf-e484-8ef8" dataName="Imperio" dataBattleScribeVersion="2.03" dataRevision="14"/>
     <dataIndexEntry filePath="Reino del caos. Bestias.catz" dataType="catalogue" dataId="eeb3-495c-4589-410e" dataName="Reino del caos. Bestias" dataBattleScribeVersion="2.03" dataRevision="16"/>
-    <dataIndexEntry filePath="Condes vampiro.catz" dataType="catalogue" dataId="d0db-f87c-f41e-92c3" dataName="Condes vampiro" dataBattleScribeVersion="2.03" dataRevision="18"/>
+    <dataIndexEntry filePath="Condes vampiro.catz" dataType="catalogue" dataId="d0db-f87c-f41e-92c3" dataName="Condes vampiro" dataBattleScribeVersion="2.03" dataRevision="19"/>
     <dataIndexEntry filePath="Amazonas.catz" dataType="catalogue" dataId="cf28-9b93-aefb-a4ea" dataName="Amazonas" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Partida de caza.catz" dataType="catalogue" dataId="727e-fa2b-cbf7-6c17" dataName="Partida de caza" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="La costa del vampiro.catz" dataType="catalogue" dataId="c0f7-c0e1-ceff-9f98" dataName="La costa del vampiro" dataBattleScribeVersion="2.03" dataRevision="1"/>
@@ -25,7 +27,6 @@
     <dataIndexEntry filePath="Elfos oscuros.catz" dataType="catalogue" dataId="122c-37b3-049e-4ee0" dataName="Elfos oscuros" dataBattleScribeVersion="2.03" dataRevision="14"/>
     <dataIndexEntry filePath="Bretonia.catz" dataType="catalogue" dataId="0b43-899c-8452-46e4" dataName="Bretonia" dataBattleScribeVersion="2.03" dataRevision="18"/>
     <dataIndexEntry filePath="Reinos ogros.catz" dataType="catalogue" dataId="f5ff-fbfc-cdce-4d2f" dataName="Reinos ogros" dataBattleScribeVersion="2.03" dataRevision="13"/>
-    <dataIndexEntry filePath="Ejército nigromántico.catz" dataType="catalogue" dataId="0496-e816-6f23-5239" dataName="Ejército nigromántico" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Mercenarios.catz" dataType="catalogue" dataId="cef9-be7f-a51a-f8aa" dataName="Mercenarios" dataBattleScribeVersion="2.03" dataRevision="12"/>
     <dataIndexEntry filePath="Patrulla marina.catz" dataType="catalogue" dataId="40be-6a19-67d0-5c2b" dataName="Patrulla marina" dataBattleScribeVersion="2.03" dataRevision="4"/>
     <dataIndexEntry filePath="Guerra de noveles.catz" dataType="catalogue" dataId="b6eb-9458-e69a-4912" dataName="Guerra de noveles" dataBattleScribeVersion="2.03" dataRevision="4"/>

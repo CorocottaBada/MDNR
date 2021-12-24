@@ -3,14 +3,15 @@
   <dataIndexEntries>
     <dataIndexEntry filePath="Warhammer MDNR.gstz" dataType="gamesystem" dataId="4a8b-d1ee-61aa-9589" dataName="Warhammer MDNR" dataBattleScribeVersion="2.03" dataRevision="19"/>
     <dataIndexEntry filePath="Reino del caos. Mortales.catz" dataType="catalogue" dataId="cead-8647-824d-f446" dataName="Reino del caos. Mortales" dataBattleScribeVersion="2.03" dataRevision="3"/>
-    <dataIndexEntry filePath="Ejercito nigromantico.catz" dataType="catalogue" dataId="0496-e816-6f23-5239" dataName="Ejercito nigromantico" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Ejercito nigromantico.catz" dataType="catalogue" dataId="0496-e816-6f23-5239" dataName="Ejercito nigromantico" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Enanos.catz" dataType="catalogue" dataId="a143-1bfd-3702-dfdd" dataName="Enanos" dataBattleScribeVersion="2.03" dataRevision="11"/>
-    <dataIndexEntry filePath="Clan Dragon Sangriento.catz" dataType="catalogue" dataId="875f-68f3-1678-b48e" dataName="Clan Dragón Sangriento" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Clan Dragon Sangriento.catz" dataType="catalogue" dataId="875f-68f3-1678-b48e" dataName="Clan Dragón Sangriento" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Norses.catz" dataType="catalogue" dataId="9588-f0a8-98ee-65f5" dataName="Norses" dataBattleScribeVersion="2.03" dataRevision="2"/>
+    <dataIndexEntry filePath="Guarnicion de la ciudad.catz" dataType="catalogue" dataId="ec36-e736-78bd-aaf3" dataName="Guarnicion de la ciudad" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Kislev.catz" dataType="catalogue" dataId="b685-465c-791d-9d1e" dataName="Kislev" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Hombres lagarto.catz" dataType="catalogue" dataId="6fa7-1b3e-e65e-8e2e" dataName="Hombres lagarto" dataBattleScribeVersion="2.03" dataRevision="13"/>
-    <dataIndexEntry filePath="Sylvania. Clan Von Carstein.catz" dataType="catalogue" dataId="a85d-77f6-f700-1bd9" dataName="Sylvania. Clan Von Carstein" dataBattleScribeVersion="2.03" dataRevision="1"/>
-    <dataIndexEntry filePath="Clan Lahmia.catz" dataType="catalogue" dataId="81c8-b914-01ee-4d62" dataName="Clan Lahmia" dataBattleScribeVersion="2.03" dataRevision="2"/>
+    <dataIndexEntry filePath="Sylvania. Clan Von Carstein.catz" dataType="catalogue" dataId="a85d-77f6-f700-1bd9" dataName="Sylvania. Clan Von Carstein" dataBattleScribeVersion="2.03" dataRevision="2"/>
+    <dataIndexEntry filePath="Clan Lahmia.catz" dataType="catalogue" dataId="81c8-b914-01ee-4d62" dataName="Clan Lahmia" dataBattleScribeVersion="2.03" dataRevision="3"/>
     <dataIndexEntry filePath="Imperio.catz" dataType="catalogue" dataId="9d74-2faf-e484-8ef8" dataName="Imperio" dataBattleScribeVersion="2.03" dataRevision="14"/>
     <dataIndexEntry filePath="Reino del caos. Bestias.catz" dataType="catalogue" dataId="eeb3-495c-4589-410e" dataName="Reino del caos. Bestias" dataBattleScribeVersion="2.03" dataRevision="16"/>
     <dataIndexEntry filePath="Condes vampiro.catz" dataType="catalogue" dataId="d0db-f87c-f41e-92c3" dataName="Condes vampiro" dataBattleScribeVersion="2.03" dataRevision="19"/>
@@ -18,22 +19,24 @@
     <dataIndexEntry filePath="Partida de caza.catz" dataType="catalogue" dataId="727e-fa2b-cbf7-6c17" dataName="Partida de caza" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="La costa del vampiro.catz" dataType="catalogue" dataId="c0f7-c0e1-ceff-9f98" dataName="La costa del vampiro" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Orcos y goblins.catz" dataType="catalogue" dataId="56d0-6f56-ef5a-5ac7" dataName="Orcos y goblins" dataBattleScribeVersion="2.03" dataRevision="16"/>
-    <dataIndexEntry filePath="Clan Necrarca.catz" dataType="catalogue" dataId="2d17-a900-c6e7-6c5c" dataName="Clan Necrarca" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Clan Necrarca.catz" dataType="catalogue" dataId="2d17-a900-c6e7-6c5c" dataName="Clan Necrarca" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Pigmeos.catz" dataType="catalogue" dataId="2cb1-70a3-6dad-fe02" dataName="Pigmeos" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Reyes funerarios.catz" dataType="catalogue" dataId="e54c-fa09-2b34-908d" dataName="Reyes funerarios" dataBattleScribeVersion="2.03" dataRevision="13"/>
-    <dataIndexEntry filePath="Clan Strigoi.catz" dataType="catalogue" dataId="09cf-8d98-3693-f9ca" dataName="Clan Strigoi" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Clan Strigoi.catz" dataType="catalogue" dataId="09cf-8d98-3693-f9ca" dataName="Clan Strigoi" dataBattleScribeVersion="2.03" dataRevision="2"/>
+    <dataIndexEntry filePath="Incursores de Naggaroth.catz" dataType="catalogue" dataId="0829-b4d4-efe1-07a3" dataName="Incursores de Naggaroth" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Reino del caos. Demonios.catz" dataType="catalogue" dataId="e503-8420-a4e7-8a6b" dataName="Reino del caos. Demonios" dataBattleScribeVersion="2.03" dataRevision="15"/>
     <dataIndexEntry filePath="Altos elfos.catz" dataType="catalogue" dataId="4c2f-d1b2-f0e0-12cd" dataName="Altos elfos" dataBattleScribeVersion="2.03" dataRevision="20"/>
-    <dataIndexEntry filePath="Elfos oscuros.catz" dataType="catalogue" dataId="122c-37b3-049e-4ee0" dataName="Elfos oscuros" dataBattleScribeVersion="2.03" dataRevision="14"/>
+    <dataIndexEntry filePath="Elfos oscuros.catz" dataType="catalogue" dataId="122c-37b3-049e-4ee0" dataName="Elfos oscuros" dataBattleScribeVersion="2.03" dataRevision="16"/>
     <dataIndexEntry filePath="Bretonia.catz" dataType="catalogue" dataId="0b43-899c-8452-46e4" dataName="Bretonia" dataBattleScribeVersion="2.03" dataRevision="18"/>
     <dataIndexEntry filePath="Reinos ogros.catz" dataType="catalogue" dataId="f5ff-fbfc-cdce-4d2f" dataName="Reinos ogros" dataBattleScribeVersion="2.03" dataRevision="13"/>
-    <dataIndexEntry filePath="Mercenarios.catz" dataType="catalogue" dataId="cef9-be7f-a51a-f8aa" dataName="Mercenarios" dataBattleScribeVersion="2.03" dataRevision="12"/>
+    <dataIndexEntry filePath="Mercenarios.catz" dataType="catalogue" dataId="cef9-be7f-a51a-f8aa" dataName="Mercenarios" dataBattleScribeVersion="2.03" dataRevision="13"/>
     <dataIndexEntry filePath="Patrulla marina.catz" dataType="catalogue" dataId="40be-6a19-67d0-5c2b" dataName="Patrulla marina" dataBattleScribeVersion="2.03" dataRevision="4"/>
     <dataIndexEntry filePath="Guerra de noveles.catz" dataType="catalogue" dataId="b6eb-9458-e69a-4912" dataName="Guerra de noveles" dataBattleScribeVersion="2.03" dataRevision="4"/>
     <dataIndexEntry filePath="Hobgoblins.catz" dataType="catalogue" dataId="5e33-e853-b13b-d240" dataName="Hobgoblins" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Enanos del caos.catz" dataType="catalogue" dataId="0372-99c4-64d9-f546" dataName="Enanos del caos" dataBattleScribeVersion="2.03" dataRevision="16"/>
     <dataIndexEntry filePath="Skavens.catz" dataType="catalogue" dataId="ce2f-d7c0-e26e-90cc" dataName="Skavens" dataBattleScribeVersion="2.03" dataRevision="11"/>
-    <dataIndexEntry filePath="Elfos silvanos.catz" dataType="catalogue" dataId="8a4d-569a-976c-6602" dataName="Elfos silvanos" dataBattleScribeVersion="2.03" dataRevision="12"/>
+    <dataIndexEntry filePath="Elfos silvanos.catz" dataType="catalogue" dataId="8a4d-569a-976c-6602" dataName="Elfos silvanos" dataBattleScribeVersion="2.03" dataRevision="14"/>
     <dataIndexEntry filePath="Nippon.catz" dataType="catalogue" dataId="bbd1-fb11-e906-6d02" dataName="Nippon" dataBattleScribeVersion="2.03" dataRevision="2"/>
+    <dataIndexEntry filePath="Patrulla de vigilancia.catz" dataType="catalogue" dataId="6995-e136-adb9-c967" dataName="Patrulla de vigilancia" dataBattleScribeVersion="2.03" dataRevision="1"/>
   </dataIndexEntries>
 </dataIndex>

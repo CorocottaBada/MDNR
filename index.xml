@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dataIndex battleScribeVersion="2.03" name="Manuscritos" indexUrl="https://raw.githubusercontent.com/CorocottaBada/Warhammer-reforged-v3/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+<dataIndex battleScribeVersion="2.03" name="Manuscritos" indexUrl="https://raw.githubusercontent.com/CorocottaBada/MDNR/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <dataIndexEntries>
     <dataIndexEntry filePath="Warhammer MDNR.gstz" dataType="gamesystem" dataId="4a8b-d1ee-61aa-9589" dataName="Warhammer MDNR" dataBattleScribeVersion="2.03" dataRevision="21"/>
     <dataIndexEntry filePath="Horda snotling.catz" dataType="catalogue" dataId="5441-d946-ca19-904e" dataName="Horda snotling" dataBattleScribeVersion="2.03" dataRevision="1"/>
@@ -45,7 +45,7 @@
     <dataIndexEntry filePath="Ejercito nigromantico.catz" dataType="catalogue" dataId="0496-e816-6f23-5239" dataName="Ejercito nigromantico" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Sylvania. Clan Von Carstein.catz" dataType="catalogue" dataId="a85d-77f6-f700-1bd9" dataName="Sylvania. Clan Von Carstein" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Imperio.catz" dataType="catalogue" dataId="9d74-2faf-e484-8ef8" dataName="Imperio" dataBattleScribeVersion="2.03" dataRevision="20"/>
-    <dataIndexEntry filePath="Condes vampiro.catz" dataType="catalogue" dataId="d0db-f87c-f41e-92c3" dataName="Condes vampiro" dataBattleScribeVersion="2.03" dataRevision="21"/>
+    <dataIndexEntry filePath="Condes vampiro.catz" dataType="catalogue" dataId="d0db-f87c-f41e-92c3" dataName="Condes vampiro" dataBattleScribeVersion="2.03" dataRevision="22"/>
     <dataIndexEntry filePath="Amazonas.catz" dataType="catalogue" dataId="cf28-9b93-aefb-a4ea" dataName="Amazonas" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="La costa del vampiro.catz" dataType="catalogue" dataId="c0f7-c0e1-ceff-9f98" dataName="La costa del vampiro" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Pigmeos.catz" dataType="catalogue" dataId="2cb1-70a3-6dad-fe02" dataName="Pigmeos" dataBattleScribeVersion="2.03" dataRevision="2"/>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <dataIndex battleScribeVersion="2.03" name="Manuscritos" indexUrl="https://raw.githubusercontent.com/CorocottaBada/MDNR/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <dataIndexEntries>
-    <dataIndexEntry filePath="Warhammer MDNR.gstz" dataType="gamesystem" dataId="4a8b-d1ee-61aa-9589" dataName="Warhammer MDNR" dataBattleScribeVersion="2.03" dataRevision="21"/>
+    <dataIndexEntry filePath="Warhammer MDNR.gstz" dataType="gamesystem" dataId="4a8b-d1ee-61aa-9589" dataName="Warhammer MDNR" dataBattleScribeVersion="2.03" dataRevision="23"/>
     <dataIndexEntry filePath="Horda snotling.catz" dataType="catalogue" dataId="5441-d946-ca19-904e" dataName="Horda snotling" dataBattleScribeVersion="2.03" dataRevision="1"/>
-    <dataIndexEntry filePath="Enanos.catz" dataType="catalogue" dataId="a143-1bfd-3702-dfdd" dataName="Enanos" dataBattleScribeVersion="2.03" dataRevision="15"/>
+    <dataIndexEntry filePath="Enanos.catz" dataType="catalogue" dataId="a143-1bfd-3702-dfdd" dataName="Enanos" dataBattleScribeVersion="2.03" dataRevision="16"/>
     <dataIndexEntry filePath="Clan Dragon Sangriento.catz" dataType="catalogue" dataId="875f-68f3-1678-b48e" dataName="Clan Dragón Sangriento" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Norses.catz" dataType="catalogue" dataId="9588-f0a8-98ee-65f5" dataName="Norses" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Guarnicion de la ciudad.catz" dataType="catalogue" dataId="ec36-e736-78bd-aaf3" dataName="Guarnicion de la ciudad" dataBattleScribeVersion="2.03" dataRevision="1"/>
@@ -15,12 +15,13 @@
     <dataIndexEntry filePath="Fuerza defensiva enana.catz" dataType="catalogue" dataId="23ff-f69f-958a-0a02" dataName="Fuerza defensiva enana" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Reino del caos. Bestias.catz" dataType="catalogue" dataId="eeb3-495c-4589-410e" dataName="Reino del caos. Bestias" dataBattleScribeVersion="2.03" dataRevision="22"/>
     <dataIndexEntry filePath="Partida de caza.catz" dataType="catalogue" dataId="727e-fa2b-cbf7-6c17" dataName="Partida de caza" dataBattleScribeVersion="2.03" dataRevision="2"/>
-    <dataIndexEntry filePath="Orcos y goblins.catz" dataType="catalogue" dataId="56d0-6f56-ef5a-5ac7" dataName="Orcos y goblins" dataBattleScribeVersion="2.03" dataRevision="22"/>
+    <dataIndexEntry filePath="Orcos y goblins.catz" dataType="catalogue" dataId="56d0-6f56-ef5a-5ac7" dataName="Orcos y goblins" dataBattleScribeVersion="2.03" dataRevision="25"/>
     <dataIndexEntry filePath="Clan Necrarca.catz" dataType="catalogue" dataId="2d17-a900-c6e7-6c5c" dataName="Clan Necrarca" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Reyes funerarios.catz" dataType="catalogue" dataId="e54c-fa09-2b34-908d" dataName="Reyes funerarios" dataBattleScribeVersion="2.03" dataRevision="15"/>
     <dataIndexEntry filePath="Clan Strigoi.catz" dataType="catalogue" dataId="09cf-8d98-3693-f9ca" dataName="Clan Strigoi" dataBattleScribeVersion="2.03" dataRevision="2"/>
-    <dataIndexEntry filePath="Altos elfos.catz" dataType="catalogue" dataId="4c2f-d1b2-f0e0-12cd" dataName="Altos elfos" dataBattleScribeVersion="2.03" dataRevision="24"/>
+    <dataIndexEntry filePath="Altos elfos.catz" dataType="catalogue" dataId="4c2f-d1b2-f0e0-12cd" dataName="Altos elfos" dataBattleScribeVersion="2.03" dataRevision="25"/>
     <dataIndexEntry filePath="Elfos oscuros.catz" dataType="catalogue" dataId="122c-37b3-049e-4ee0" dataName="Elfos oscuros" dataBattleScribeVersion="2.03" dataRevision="17"/>
+    <dataIndexEntry filePath="Waaagh de las tierras yermas.catz" dataType="catalogue" dataId="4e72-fd79-3886-2772" dataName="Waaagh de las tierras yermas" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Clan Real.catz" dataType="catalogue" dataId="74c8-0b69-e340-8cbc" dataName="Clan Real" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Expedicion del gremio.catz" dataType="catalogue" dataId="44c5-bd44-d72f-f5f0" dataName="Expedicion del gremio" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Incursion exclavista.catz" dataType="catalogue" dataId="1b4f-a2f8-2421-d077" dataName="Incursion exclavista" dataBattleScribeVersion="2.03" dataRevision="1"/>
@@ -60,7 +61,7 @@
     <dataIndexEntry filePath="Guardia del emperador.catz" dataType="catalogue" dataId="965a-f9c3-9c98-2bfa" dataName="Guardia del emperador" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Guardias de Undgrin-Ankor.catz" dataType="catalogue" dataId="09fd-bc2f-3da2-5692" dataName="Guardias de Undgrin-Ankor" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Ejercito cruzado.catz" dataType="catalogue" dataId="abe7-fb11-e70e-46de" dataName="Ejercito cruzado" dataBattleScribeVersion="2.03" dataRevision="1"/>
-    <dataIndexEntry filePath="Elfos silvanos.catz" dataType="catalogue" dataId="8a4d-569a-976c-6602" dataName="Elfos silvanos" dataBattleScribeVersion="2.03" dataRevision="15"/>
+    <dataIndexEntry filePath="Elfos silvanos.catz" dataType="catalogue" dataId="8a4d-569a-976c-6602" dataName="Elfos silvanos" dataBattleScribeVersion="2.03" dataRevision="16"/>
     <dataIndexEntry filePath="Nippon.catz" dataType="catalogue" dataId="bbd1-fb11-e906-6d02" dataName="Nippon" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Fuerza de asedio.catz" dataType="catalogue" dataId="c26a-0456-de23-9b9e" dataName="Fuerza de asedio" dataBattleScribeVersion="2.03" dataRevision="1"/>
   </dataIndexEntries>

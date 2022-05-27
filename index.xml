@@ -39,11 +39,12 @@
     <dataIndexEntry filePath="Goblins.catz" dataType="catalogue" dataId="76ff-9863-d6a6-dd26" dataName="Goblins" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Waaagh de las montañas.catz" dataType="catalogue" dataId="9cdc-e9ee-1e0e-60a9" dataName="Waaagh de las montañas" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Skavens.catz" dataType="catalogue" dataId="ce2f-d7c0-e26e-90cc" dataName="Skavens" dataBattleScribeVersion="2.03" dataRevision="16"/>
+    <dataIndexEntry filePath="Horda gnoblar.catz" dataType="catalogue" dataId="2b20-f67b-89f4-3ebb" dataName="Horda gnoblar" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Tren de artilleria de Nuln.catz" dataType="catalogue" dataId="dd64-3b7d-b01d-4cfc" dataName="Tren de artilleria de Nuln" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Patrulla de vigilancia.catz" dataType="catalogue" dataId="6995-e136-adb9-c967" dataName="Patrulla de vigilancia" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Middenland.catz" dataType="catalogue" dataId="879a-83a0-7486-3acb" dataName="Middenland" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Culto de Slaanesh.catz" dataType="catalogue" dataId="dbf4-d47d-2dc7-34d8" dataName="Culto de Slaanesh" dataBattleScribeVersion="2.03" dataRevision="3"/>
-    <dataIndexEntry filePath="Reino del caos. Mortales.catz" dataType="catalogue" dataId="cead-8647-824d-f446" dataName="Reino del caos. Mortales" dataBattleScribeVersion="2.03" dataRevision="13"/>
+    <dataIndexEntry filePath="Reino del caos. Mortales.catz" dataType="catalogue" dataId="cead-8647-824d-f446" dataName="Reino del caos. Mortales" dataBattleScribeVersion="2.03" dataRevision="14"/>
     <dataIndexEntry filePath="Ejercito nigromantico.catz" dataType="catalogue" dataId="0496-e816-6f23-5239" dataName="Ejercito nigromantico" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Sylvania. Clan Von Carstein.catz" dataType="catalogue" dataId="a85d-77f6-f700-1bd9" dataName="Sylvania. Clan Von Carstein" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Imperio.catz" dataType="catalogue" dataId="9d74-2faf-e484-8ef8" dataName="Imperio" dataBattleScribeVersion="2.03" dataRevision="23"/>
@@ -58,7 +59,7 @@
     <dataIndexEntry filePath="Bretonia.catz" dataType="catalogue" dataId="0b43-899c-8452-46e4" dataName="Bretonia" dataBattleScribeVersion="2.03" dataRevision="22"/>
     <dataIndexEntry filePath="Ejercito sigmarita.catz" dataType="catalogue" dataId="df94-fd02-af58-fdf3" dataName="Ejercito sigmarita" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Reino del caos. Khorne.catz" dataType="catalogue" dataId="66bc-d876-46b6-dc33" dataName="Reino del caos. Khorne" dataBattleScribeVersion="2.03" dataRevision="1"/>
-    <dataIndexEntry filePath="Reinos ogros.catz" dataType="catalogue" dataId="f5ff-fbfc-cdce-4d2f" dataName="Reinos ogros" dataBattleScribeVersion="2.03" dataRevision="15"/>
+    <dataIndexEntry filePath="Reinos ogros.catz" dataType="catalogue" dataId="f5ff-fbfc-cdce-4d2f" dataName="Reinos ogros" dataBattleScribeVersion="2.03" dataRevision="16"/>
     <dataIndexEntry filePath="Legion demoniaca.catz" dataType="catalogue" dataId="94dd-2563-22f4-7688" dataName="Legion demoniaca" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="Mercenarios.catz" dataType="catalogue" dataId="cef9-be7f-a51a-f8aa" dataName="Mercenarios" dataBattleScribeVersion="2.03" dataRevision="17"/>
     <dataIndexEntry filePath="Guardia del emperador.catz" dataType="catalogue" dataId="965a-f9c3-9c98-2bfa" dataName="Guardia del emperador" dataBattleScribeVersion="2.03" dataRevision="1"/>

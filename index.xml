@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dataIndex battleScribeVersion="2.03" name="Manuscritos" indexUrl="https://raw.githubusercontent.com/CorocottaBada/MDNR/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+<dataIndex battleScribeVersion="2.03" name="Manuscruitos" indexUrl="https://raw.githubusercontent.com/CorocottaBada/MDNR/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <dataIndexEntries>
     <dataIndexEntry filePath="Warhammer MDNR.gstz" dataType="gamesystem" dataId="4a8b-d1ee-61aa-9589" dataName="Warhammer MDNR" dataBattleScribeVersion="2.03" dataRevision="25"/>
     <dataIndexEntry filePath="Horda snotling.catz" dataType="catalogue" dataId="5441-d946-ca19-904e" dataName="Horda snotling" dataBattleScribeVersion="2.03" dataRevision="2"/>
@@ -15,7 +15,7 @@
     <dataIndexEntry filePath="Fuerza defensiva enana.catz" dataType="catalogue" dataId="23ff-f69f-958a-0a02" dataName="Fuerza defensiva enana" dataBattleScribeVersion="2.03" dataRevision="3"/>
     <dataIndexEntry filePath="Reino del caos. Bestias.catz" dataType="catalogue" dataId="eeb3-495c-4589-410e" dataName="Reino del caos. Bestias" dataBattleScribeVersion="2.03" dataRevision="31"/>
     <dataIndexEntry filePath="Partida de caza.catz" dataType="catalogue" dataId="727e-fa2b-cbf7-6c17" dataName="Partida de caza" dataBattleScribeVersion="2.03" dataRevision="3"/>
-    <dataIndexEntry filePath="Orcos y goblins.catz" dataType="catalogue" dataId="56d0-6f56-ef5a-5ac7" dataName="Orcos y goblins" dataBattleScribeVersion="2.03" dataRevision="29"/>
+    <dataIndexEntry filePath="Orcos y goblins.catz" dataType="catalogue" dataId="56d0-6f56-ef5a-5ac7" dataName="Orcos y goblins" dataBattleScribeVersion="2.03" dataRevision="30"/>
     <dataIndexEntry filePath="Clan Necrarca.catz" dataType="catalogue" dataId="2d17-a900-c6e7-6c5c" dataName="Clan Necrarca" dataBattleScribeVersion="2.03" dataRevision="3"/>
     <dataIndexEntry filePath="Reyes funerarios.catz" dataType="catalogue" dataId="e54c-fa09-2b34-908d" dataName="Reyes funerarios" dataBattleScribeVersion="2.03" dataRevision="19"/>
     <dataIndexEntry filePath="Clan Strigoi.catz" dataType="catalogue" dataId="09cf-8d98-3693-f9ca" dataName="Clan Strigoi" dataBattleScribeVersion="2.03" dataRevision="4"/>
@@ -36,8 +36,8 @@
     <dataIndexEntry filePath="Karak-Kadrin.catz" dataType="catalogue" dataId="064f-b25e-a404-0f2a" dataName="Karak-Kadrin" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Hobgoblins.catz" dataType="catalogue" dataId="5e33-e853-b13b-d240" dataName="Hobgoblins" dataBattleScribeVersion="2.03" dataRevision="4"/>
     <dataIndexEntry filePath="Enanos del caos.catz" dataType="catalogue" dataId="0372-99c4-64d9-f546" dataName="Enanos del caos" dataBattleScribeVersion="2.03" dataRevision="24"/>
-    <dataIndexEntry filePath="Goblins.catz" dataType="catalogue" dataId="76ff-9863-d6a6-dd26" dataName="Goblins" dataBattleScribeVersion="2.03" dataRevision="2"/>
-    <dataIndexEntry filePath="Waaagh de las montañas.catz" dataType="catalogue" dataId="9cdc-e9ee-1e0e-60a9" dataName="Waaagh de las montañas" dataBattleScribeVersion="2.03" dataRevision="2"/>
+    <dataIndexEntry filePath="Goblins.catz" dataType="catalogue" dataId="76ff-9863-d6a6-dd26" dataName="Goblins" dataBattleScribeVersion="2.03" dataRevision="3"/>
+    <dataIndexEntry filePath="Waaagh de las montañas.catz" dataType="catalogue" dataId="9cdc-e9ee-1e0e-60a9" dataName="Waaagh de las montañas" dataBattleScribeVersion="2.03" dataRevision="3"/>
     <dataIndexEntry filePath="Skavens.catz" dataType="catalogue" dataId="ce2f-d7c0-e26e-90cc" dataName="Skavens" dataBattleScribeVersion="2.03" dataRevision="19"/>
     <dataIndexEntry filePath="Horda gnoblar.catz" dataType="catalogue" dataId="2b20-f67b-89f4-3ebb" dataName="Horda gnoblar" dataBattleScribeVersion="2.03" dataRevision="2"/>
     <dataIndexEntry filePath="Tren de artilleria de Nuln.catz" dataType="catalogue" dataId="dd64-3b7d-b01d-4cfc" dataName="Tren de artilleria de Nuln" dataBattleScribeVersion="2.03" dataRevision="3"/>
